@@ -132,7 +132,7 @@ Mixed opinions but definitely food for thought!
 
 ### Do you have any concerns about the current operation of [TC]?
 
-![Do you have any concerns about the current operation of [TC]?](https://raw.githubusercontent.com/TC-Gaming/Survey-2015-Results/master/img/do-you-have-any-concerns-about-the-current-operatin-of-tc.png)
+![Do you have any concerns about the current operation of [TC]?](https://raw.githubusercontent.com/TC-Gaming/Survey-2015-Results/master/img/do-you-have-any-concerns-about-the-current-operation-of-tc.png)
 
 * 84% of people had little or no concerns
 * 16% of people had some concerns
